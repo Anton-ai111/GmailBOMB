@@ -1,1 +1,3 @@
 # GmailBOMB
+
+Use it safely
